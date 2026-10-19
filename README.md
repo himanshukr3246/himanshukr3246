@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://github.com/himanshukr3246/himanshukr3246"><img src="https://www.monokern.design/api/card/repo-1.svg?cfg=eyJ1c2VybmFtZSI6ImhpbWFuc2h1a3IzMjQ2IiwidGhlbWUiOiJ0ZXJtaW5hbCIsInN0YWNrIjpbInB5dGhvbiJdLCJzb2NpYWxzIjp7IngiOiJIaW1hbnNodWtyMzI0NiIsImdpdGh1YiI6ImhpbWFuc2h1a3IzMjQ2In19" width="49%" alt="himanshukr3246"/></a>
   <a href="https://github.com/himanshukr3246/chatroom"><img src="https://www.monokern.design/api/card/repo-2.svg?cfg=eyJ1c2VybmFtZSI6ImhpbWFuc2h1a3IzMjQ2IiwidGhlbWUiOiJ0ZXJtaW5hbCIsInN0YWNrIjpbInB5dGhvbiJdLCJzb2NpYWxzIjp7IngiOiJIaW1hbnNodWtyMzI0NiIsImdpdGh1YiI6ImhpbWFuc2h1a3IzMjQ2In19" width="49%" alt="chatroom"/></a>
-  <a href="https://github.com/himanshukr3246/tictactoegame"><img src="https://www.monokern.design/api/card/repo-3.svg?cfg=eyJ1c2VybmFtZSI6ImhpbWFuc2h1a3IzMjQ2IiwidGhlbWUiOiJ0ZXJtaW5hbCIsInN0YWNrIjpbInB5dGhvbiJdLCJzb2NpYWxzIjp7IngiOiJIaW1hbnNodWtyMzI0NiIsImdpdGh1YiI6ImhpbWFuc2h1a3IzMjQ2In19" width="49%" alt="tictactoegame"/>Tic-Tac-Toe in Python</a>
+  <a href="https://github.com/himanshukr3246/tictactoegame"><img src="https://www.monokern.design/api/card/repo-3.svg?cfg=eyJ1c2VybmFtZSI6ImhpbWFuc2h1a3IzMjQ2IiwidGhlbWUiOiJ0ZXJtaW5hbCIsInN0YWNrIjpbInB5dGhvbiJdLCJzb2NpYWxzIjp7IngiOiJIaW1hbnNodWtyMzI0NiIsImdpdGh1YiI6ImhpbWFuc2h1a3IzMjQ2In19" width="49%" alt="tictactoegame"/></a>
   <a href="https://github.com/himanshukr3246/rps&#95;game"><img src="https://www.monokern.design/api/card/repo-4.svg?cfg=eyJ1c2VybmFtZSI6ImhpbWFuc2h1a3IzMjQ2IiwidGhlbWUiOiJ0ZXJtaW5hbCIsInN0YWNrIjpbInB5dGhvbiJdLCJzb2NpYWxzIjp7IngiOiJIaW1hbnNodWtyMzI0NiIsImdpdGh1YiI6ImhpbWFuc2h1a3IzMjQ2In19" width="49%" alt="rps&#95;game"/></a>
 </p>
 
