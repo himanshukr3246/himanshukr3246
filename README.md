@@ -13,7 +13,7 @@
   <img src="./atelier/languages.9b2d10a0.svg" width="49%" alt="Top languages"/>
 </p>
 
-<p align="center"><img src="./atelier/activity.e3fb46d6.svg" width="100%" alt="Contribution activity"/></p>
+<p align="center"><img src="./atelier/activity.addbc486.svg" width="100%" alt="Contribution activity"/></p>
 
 <p align="center">
   <a href="https://github.com/himanshukr3246/himanshukr3246"><img src="./atelier/repo-1.a66ff2f7.svg" width="49%" alt="himanshukr3246"/></a>
@@ -24,6 +24,6 @@
 
 <p align="center"><img src="./atelier/stack.de3760f9.svg" width="100%" alt="Tech stack"/></p>
 
-<p align="center"><img src="./atelier/footer.2d01e249.svg" width="100%" alt="Footer"/></p>
+<p align="center"><img src="./atelier/footer.52ca7a53.svg" width="100%" alt="Footer"/></p>
 
 <!-- readme-atelier:end -->
